@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+	name = ZOUNON William
+	descrip = configxml
+	date = 28/01/2018
+	niveau = MIAGE-GI Licence 3
+	version = 1.0
+-->
+
+<injections>
+
+	<injection classe="Pile" injection="java.util.LinkedList"></injection>
+	
+</injections>
